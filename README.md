@@ -1,6 +1,6 @@
 # CPP Module 00
 
-42TokyoのCPP_Module_00プロジェクト - C++の基本的な概念を学習します。
+42Tokyo C++課題のModule 00です。C++の基本的な概念を学習します。
 
 ## 概要
 
@@ -24,8 +24,6 @@
 
 **コンパイル・実行**:
 ```bash
-cd ex00
-make
 ./megaphone "hello world"
 ```
 
@@ -40,8 +38,6 @@ make
 
 **コンパイル・実行**:
 ```bash
-cd ex01
-make
 ./phonebook
 ```
 
@@ -54,8 +50,6 @@ make
 
 **コンパイル・実行**:
 ```bash
-cd ex02
-make
 ./account
 ```
 
